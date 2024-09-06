@@ -5,4 +5,4 @@ As of rsgauges-1.2.21 and engineersdecor-1.3.30, there is a bug where the blocks
 
 ## Installation
 1. Make sure you have [KubeJS](https://modrinth.com/mod/kubejs) installed for your respective Minecraft version.
-2. Simply download the script for [Gauges & Switches](https://github.com/aethaerya/wilechaote-ported-mineability/blob/00b9ba003f388936aad900e00f79c39226329c1f/kubejs/server_scripts/tags_rsgauges.js) or [Engineer's Decor](https://github.com/aethaerya/wilechaote-ported-mineability/blob/00b9ba003f388936aad900e00f79c39226329c1f/kubejs/server_scripts/tags_engineersdecor.js) and drop it into `.minecraft/kubejs/server_scripts` on your instance.
+2. Simply download the script for [Gauges & Switches](https://github.com/aethaerya/wilechaote-ported-mineability/blob/00b9ba003f388936aad900e00f79c39226329c1f/kubejs/server_scripts/tags_rsgauges.js) or [Engineer's Decor](https://github.com/aethaerya/wilechaote-ported-mineability/blob/00b9ba003f388936aad900e00f79c39226329c1f/kubejs/server_scripts/tags_engineersdecor.js) and drop it into `.minecraft/kubejs/server_scripts` within your instance.
