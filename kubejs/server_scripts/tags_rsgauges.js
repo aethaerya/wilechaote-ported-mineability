@@ -1,6 +1,6 @@
 ServerEvents.tags('block', event => {
     // rsgauges
-    let items = {
+    const items = {
         'arrow': [
             'target',
         ],
